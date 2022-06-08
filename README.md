@@ -1,6 +1,6 @@
-# David and Alex's Shell
+# Benedicta and amara's Shell
 
-![Holberton school logo](https://secure.meetupstatic.com/photos/event/b/c/5/6/highres_475548214.jpeg)
+
 # simple_shell project repository
 
 This repository contains the files for Holberton's **simple_shell**. It can be compiled using GCC and will execute a simple shell that can be used for some basic tasks and programs most commonly found in the /bin/ folder.
@@ -115,15 +115,10 @@ env: env
 	Print the environment.
 ```
 
-README.md: this.
-
-## General Flow Chart:
-
-<a href="https://ibb.co/1MMmc0J"><img src="https://i.ibb.co/5kkRZ1x/Untitled-Diagram.png" alt="Untitled-Diagram" border="0"></a>
 
 ### Authors:
 
-Git: [David Livingstone Hini](https://github.com/DavidLivingstoneHini) & [Bamulanzeki Alex](https://github.com/Alexbamulanzeki)
+Git: [Benedicta Nwachukwu](https://github.com/symplybennie) & [Amara Onwunzo](https://github.com/amarapeace)
 
 
 
